@@ -13,3 +13,4 @@ envs/**/*.tfvars.json
 # Optional: general log or crash files
 *.log
 crash.log
+.gitignore
