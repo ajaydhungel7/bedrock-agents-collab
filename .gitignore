@@ -1,0 +1,15 @@
+# Ignore Terraform state and backup files in all environments
+envs/**/.terraform/
+envs/**/.terraform.lock.hcl
+envs/**/*.tfstate
+envs/**/*.tfstate.backup
+envs/**/*.tfplan
+envs/**/plan.out
+
+# Optional: ignore tfvars (if you ever use them)
+envs/**/*.tfvars
+envs/**/*.tfvars.json
+
+# Optional: general log or crash files
+*.log
+crash.log

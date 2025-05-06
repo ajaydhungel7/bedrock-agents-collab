@@ -1,0 +1,156 @@
+Player: André Onana
+Position: Goalkeeper
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Altay Bayındır
+Position: Goalkeeper
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: Early May 2025
+Notes: Monitoring recovery progress.
+
+Player: Tom Heaton
+Position: Goalkeeper
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: TBD
+Notes: Undergoing assessment.
+
+Player: Elyh Harrison
+Position: Goalkeeper
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Victor Lindelöf
+Position: Defender
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Noussair Mazraoui
+Position: Defender
+Injury Status: Doubtful
+Injury: Physical discomfort
+Estimated Return: TBD
+Notes: Fitness being monitored.
+
+Player: Matthijs de Ligt
+Position: Defender
+Injury Status: Doubtful
+Injury: Muscle injury
+Estimated Return: TBD
+Notes: Returned to training after missing six matches; availability being assessed.
+
+Player: Harry Maguire
+Position: Defender
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: TBD
+Notes: Recovery in progress.
+
+Player: Lisandro Martínez
+Position: Defender
+Injury Status: Out
+Injury: Cruciate ligament injury
+Estimated Return: Early January 2026
+Notes: Undergoing long-term rehabilitation.
+
+Player: Luke Shaw
+Position: Defender
+Injury Status: Doubtful
+Injury: Calf/Shin/Heel injury
+Estimated Return: TBD
+Notes: Nearing return; being evaluated.
+
+Player: Leny Yoro
+Position: Defender
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: TBD
+Notes: Recovery timeline uncertain.
+
+Player: Diogo Dalot
+Position: Defender
+Injury Status: Out
+Injury: Calf muscle injury
+Estimated Return: Out for season
+Notes: Sustained injury despite managed game time; will miss remainder of season.
+
+Player: Bruno Fernandes
+Position: Midfielder
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Casemiro
+Position: Midfielder
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Christian Eriksen
+Position: Midfielder
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: TBD
+Notes: Undergoing assessment.
+
+Player: Kobbie Mainoo
+Position: Midfielder
+Injury Status: Doubtful
+Injury: Muscle injury
+Estimated Return: TBD
+Notes: Recovery in progress.
+
+Player: Mason Mount
+Position: Midfielder
+Injury Status: Doubtful
+Injury: TBD
+Estimated Return: TBD
+Notes: Recovery timeline uncertain.
+
+Player: Manuel Ugarte
+Position: Midfielder
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: TBD
+Notes: Fitness being monitored.
+
+Player: Toby Collyer
+Position: Midfielder
+Injury Status: Doubtful
+Injury: Knock injury
+Estimated Return: Early May 2025
+Notes: Recovery in progress.
+
+Player: Amad Diallo
+Position: Forward
+Injury Status: Doubtful
+Injury: Ankle ligament injury
+Estimated Return: TBD
+Notes: Returned to training ahead of schedule; availability being assessed.
+
+Player: Alejandro Garnacho
+Position: Forward
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Rasmus Højlund
+Position: Forward
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Joshua Zirkzee
+Position: Forward
+Injury Status: Out
+Injury: Hamstring injury
+Estimated Return: Out for season
+Notes: Will miss remainder of season due to injury.
+
+Player: Marcus Rashford
+Position: Forward
+Injury Status: Fit
+Notes: No reported injuries; available for selection.
+
+Player: Antony
+Position: Forward
+Injury Status: Fit
+Notes: No reported injuries; available for selection.

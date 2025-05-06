@@ -1,0 +1,296 @@
+Player: Jonathan Bond
+Position: Goalkeeper
+Age: 31
+Nationality: United States
+From Club: Watford
+To Club: Houston Dynamo
+Transfer Fee: Undisclosed
+Transfer Type: Permanent
+Transfer Date: April 2025
+Notes: Bond moves to MLS side Houston Dynamo seeking new challenges in the United States.
+
+Player: Liam Delap
+Position: Striker
+Age: 22
+Nationality: England
+From Club: Ipswich Town
+To Club: Undisclosed
+Transfer Fee: £30 million (Reported)
+Transfer Type: Potential Transfer
+Transfer Date: May 2025
+Notes: Delap attracts interest from Premier League clubs after impressive performances for Ipswich.
+
+Player: Tom Watson
+Position: Winger
+Age: 19
+Nationality: England
+From Club: Sunderland
+To Club: Brighton & Hove Albion
+Transfer Fee: Undisclosed
+Transfer Type: Permanent
+Transfer Date: April 2025
+Notes: Brighton secures the signing of young talent Watson to bolster their attacking options.
+
+Player: Erik Pieters
+Position: Defender
+Age: 36
+Nationality: Netherlands
+From Club: West Bromwich Albion
+To Club: Derby County
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Pieters joins Derby County to add experience to their defensive lineup.
+
+Player: Dean Bouzanis
+Position: Goalkeeper
+Age: 34
+Nationality: Australia
+From Club: Sutton United
+To Club: Charlton Athletic
+Transfer Fee: Free Transfer
+Transfer Type: Short-Term Contract
+Transfer Date: March 2025
+Notes: Bouzanis signs a short-term deal with Charlton to provide goalkeeping cover.
+
+Player: Thimothee Lo-Tutala
+Position: Goalkeeper
+Age: 22
+Nationality: France
+From Club: Hull City
+To Club: Crawley Town
+Transfer Fee: Loan
+Transfer Type: Emergency Loan
+Transfer Date: March 2025
+Notes: Lo-Tutala joins Crawley Town on a week-long emergency loan to cover for injuries.
+
+Player: Geovany Quenda
+Position: Winger
+Age: 20
+Nationality: Portugal
+From Club: Sporting CP
+To Club: Chelsea
+Transfer Fee: £40 million
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Chelsea invests in young talent Quenda to strengthen their wing options.
+
+Player: Dario Essugo
+Position: Midfielder
+Age: 20
+Nationality: Portugal
+From Club: Sporting CP
+To Club: Chelsea
+Transfer Fee: £18.5 million
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Chelsea secures the signing of promising midfielder Essugo from Sporting.
+
+Player: Jewison Bennette
+Position: Winger
+Age: 21
+Nationality: Costa Rica
+From Club: Sunderland
+To Club: FC Dynamo Kyiv
+Transfer Fee: Undisclosed
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Bennette makes a move to Ukrainian side Dynamo Kyiv to continue his development.
+
+Player: Dom Dwyer
+Position: Striker
+Age: 34
+Nationality: United States
+From Club: Free Agent
+To Club: Mansfield Town
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Experienced striker Dwyer signs with Mansfield Town to add depth to their attack.
+
+Player: Jeff Hendrick
+Position: Midfielder
+Age: 33
+Nationality: Ireland
+From Club: Free Agent
+To Club: Derby County
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Hendrick returns to Derby County to provide experience in midfield.
+
+Player: Alexander Milosevic
+Position: Defender
+Age: 32
+Nationality: Sweden
+From Club: Free Agent
+To Club: Portsmouth
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Milosevic joins Portsmouth to strengthen their defensive options.
+
+Player: Scott Malone
+Position: Defender
+Age: 34
+Nationality: England
+From Club: Free Agent
+To Club: Cambridge United
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Malone signs with Cambridge United to add experience to their defense.
+
+Player: Tom Carroll
+Position: Midfielder
+Age: 32
+Nationality: England
+From Club: Free Agent
+To Club: Reading
+Transfer Fee: Free Transfer
+Transfer Type: Permanent
+Transfer Date: March 2025
+Notes: Carroll joins Reading to bolster their midfield options.
+
+Player: Miguel Almirón
+Position: Attacking Midfielder
+Age: 31
+Nationality: Paraguay
+From Club: Newcastle United
+To Club: Atlanta United
+Transfer Fee: £8 million
+Transfer Type: Permanent
+Transfer Date: January 2025
+Notes: Almirón returns to MLS side Atlanta United after a successful stint in the Premier League.
+
+Player: Jhon Durán
+Position: Striker
+Age: 21
+Nationality: Colombia
+From Club: Aston Villa
+To Club: Al-Ittihad
+Transfer Fee: £71 million
+Transfer Type: Permanent
+Transfer Date: January 2025
+Notes: Durán makes a big-money move to Saudi Arabian club Al-Ittihad.
+
+Player: Mathis Amougou
+Position: Defender
+Age: 19
+Nationality: France
+From Club: Saint-Étienne
+To Club: Chelsea
+Transfer Fee: Undisclosed
+Transfer Type: Permanent
+Transfer Date: February 2025
+Notes: Chelsea signs young defender Amougou to strengthen their defensive prospects.
+
+Player: Tyrell Malacia
+Position: Left-Back
+Age: 25
+Nationality: Netherlands
+From Club: Manchester United
+To Club: PSV Eindhoven
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Malacia returns to the Eredivisie on loan to gain more playing time.
+
+Player: Felix
+Position: Forward
+Age: 21
+Nationality: England
+From Club: Chelsea
+To Club: AC Milan
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Felix joins AC Milan on loan to continue his development in Serie A.
+
+Player: Deivid Washington
+Position: Forward
+Age: 20
+Nationality: Brazil
+From Club: Chelsea
+To Club: Santos
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Washington returns to Brazil on loan to gain more first-team experience.
+
+Player: Bojan Radulovic
+Position: Forward
+Age: 24
+Nationality: Serbia
+From Club: Huddersfield Town
+To Club: Fortuna Sittard
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Radulovic moves to the Netherlands on loan to seek more playing opportunities.
+
+Player: Omur
+Position: Midfielder
+Age: 24
+Nationality: Turkey
+From Club: Hull City
+To Club: Çaykur Rizespor
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Omur returns to Turkey on loan to continue his development.
+
+Player: Engel
+Position: Defender
+Age: 23
+Nationality: England
+From Club: Middlesbrough
+To Club: FC Cincinnati
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Engel moves to MLS side FC Cincinnati on loan for more playing time.
+
+Player: Nikola Jojić
+Position: Forward
+Age: 22
+Nationality: Serbia
+From Club: Stoke City
+To Club: HNK Gorica
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: February 2025
+Notes: Jojić joins Croatian side HNK Gorica on loan to gain experience.
+
+Player: Dixon-Bonner
+Position: Midfielder
+Age: 23
+Nationality: England
+From Club: Queens Park Rangers
+To Club: Västerås SK
+Transfer Fee: Loan
+Transfer Type: Loan
+Transfer Date: March 2025
+Notes: Dixon-Bonner moves to Sweden on loan to seek more first-team opportunities.
+
+Player: Luke Hutchinson
+Position: Goalkeeper
+Age: 21
+Nationality: England
+From Club: Bolton Wanderers
+To Club: Crawley Town
+Transfer Fee: Loan
+Transfer Type: Emergency Loan
+Transfer Date: April 2025
+Notes: Hutchinson joins Crawley Town on a short-term emergency loan to cover for injuries.
+
+Player: Toby Steward
+Position: Goalkeeper
+Age: 20
+Nationality: England
+From Club: Portsmouth
+To Club: Crawley Town
+Transfer Fee: Loan
+Transfer Type: Emergency Loan
+Transfer Date: April 2025
+Notes: Steward signs a week-long emergency loan deal with Crawley Town to provide goalkeeping cover.
